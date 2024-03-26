@@ -1,8 +1,15 @@
 # Handwritten Numbers Model
-
+## Base Model
 A Machine Learning Model that reads handwritten numbers and predicts what value they contain. It achieves 97% reliability in tests.
 ### An Image of The Model Predicting a Number:
+
 ![Image of Model Working](https://cdn.discordapp.com/attachments/755504752011378822/1222203897297502288/image.png?ex=66155d14&is=6602e814&hm=48c940dee3007c758df79353733d35915367fa22c39aea47d25e9a82a276d670&)
+
+## Optimized Model
+By using rotations to create new and more varied training data and increasing the epoch to 10, I was able to reach an average of 0.976 effeciency, approaching 0.98 nearly.
+### An image of the model reaching 0.976 effeciency in predicting number values:
+
+![Image of High Effeciency](https://cdn.discordapp.com/attachments/755504752011378822/1222264037887447202/image.png?ex=66159517&is=66032017&hm=270c92514aed08fd8c7333edf767e65aa5dbad47f8947bb27164ce52da167433&)
 
 ## Getting Started
 
