@@ -14,6 +14,7 @@ By using rotations to create new and more varied training data and increasing th
 ## Getting Started
 
 You can download the project and run the jupyter notebook file, the base_model.ipynb shows the base ML Model, and the second optimized_model.ipynb shows the more effecient model. 
+To run further in-depth analysis, download the MNIST dataset from https://pjreddie.com/projects/mnist-in-csv/ and change the path to use the test and train data respectively.
 
 ### Prerequisites
 
